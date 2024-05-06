@@ -1,0 +1,15 @@
+main:
+  title: "Bonjour le monde"
+
+menu:
+  home: ""
+  products: "Nos produits"
+  factory: "La manufacture"
+  brand: "La marque"
+  infos: "Plus d'infos"
+  contact: "Nous contacter"
+  proform: "Formulaire pro"
+  legals: "Mentions légales"
+  sitemap: "Plan du site"
+  langs: "Langues"
+
